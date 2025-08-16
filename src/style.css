@@ -11,15 +11,26 @@ header{
 .corpo{
     display: flex;
     width: 100vw;
-    height: 80vh;
+    height: 75vh;
 }
 .agendamento{
     background-color: #1F1F1F;
     height: 75vh;
     width: 40vw;
 }
-.lista-agendados{
+.agendados{
     background-color: #2e2e2e;
     width: 60vw;
     height: 75vh;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: #333333;
+    color: #E6B800;
+    text-align: center;
+ height: 10vh;
+ width: 100vw;
+ margin: 0;
+ padding: 0;
 }
