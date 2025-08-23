@@ -34,3 +34,19 @@ footer{
  margin: 0;
  padding: 0;
 }
+.horario-button {
+    background-color: #444444;
+    border: none;
+    color: #E6B800;
+    padding: 12px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.horario-button.selecionado {
+    background-color: white;
+    color: black;
+}
